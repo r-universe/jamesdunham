@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "concatenate"]
+	path = concatenate
+	url = https://github.com/jamesdunham/concatenate
+	shallow = true
+	registered = true
